@@ -10,6 +10,6 @@ Upon starting for the first time it will run simplewallet to generate a new addr
 The app will spawn instances of simpleminer for each core with the approperiate command-line arguments.
 
 
-####Download
+###Download
 
-Get the latest build here: [releases](//github.com/zone117x/cryptonote-easy-miner/releases)
+Get the latest build here: [releases](//github.com/juanfr-castro/cryptonote-easy-miner/releases)
